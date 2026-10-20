@@ -10,13 +10,13 @@ Say goodbye to OP Auto Clicker, GS Auto Clicker, etc... and **stop being tricked
 ## App Preview
 
 <p align="center">
-  <a href="https://files.catbox.moe/5f95nb.mp4">
+  <a href="https://file.garden/atf1zW6U3E_kM8Ui/preview.mp4">
     <img src="https://files.catbox.moe/3qxqm4.png" alt="Posh Autoclicker app preview" width="20%"/>
   </a>
 </p>
 
 <p align="center">
-  <em href="https://files.catbox.moe/5f95nb.mp4">▶ Click the image to watch the video!</em>
+  <em href="https://file.garden/atf1zW6U3E_kM8Ui/preview.mp4">▶ Click the image to watch the video!</em>
 </p>
 
 *"Clicking away, so cute..."*
